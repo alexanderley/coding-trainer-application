@@ -1,0 +1,18 @@
+.card {
+  background-color: var(--light-black);
+  padding: 50px;
+  border-radius: 30px;
+  -webkit-box-shadow: var(--standart-box-shadow);
+  box-shadow: var(--standart-box-shadow);
+  min-height: 300px;
+}
+
+.card h2 {
+  /* color: red; */
+  font-size: 3.6rem;
+  font-weight: bold;
+}
+
+.hide {
+  display: none;
+}
